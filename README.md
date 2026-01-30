@@ -1,6 +1,6 @@
 # Smartphone Battery Consumption Data
 
-This repository contains a dataset for modeling smartphone battery consumption over a period of 72 hours (3 days). The data is sampled every 10 minutes and includes information on power usage based on user activity such as screen brightness, app usage, and network activity.
+This repository contains a dataset for modeling smartphone battery consumption over a period of 72 hours (3 days). The data is sampled every 20 minutes and includes information on power usage based on user activity such as screen brightness, app usage, and network activity.
 
 ## Dataset Description
 
@@ -15,9 +15,9 @@ The dataset is divided into three CSV files, each representing one day of data. 
 
 ### Files
 
-- **day1_battery_usage_data_10min.csv**: Data for the first day (00:00 - 23:59).
-- **day2_battery_usage_data_10min.csv**: Data for the second day (00:00 - 23:59).
-- **day3_battery_usage_data_10min.csv**: Data for the third day (00:00 - 23:59).
+- **day1_battery_usage_data.csv**: Data for the first day (00:00 - 23:59).
+- **day2_battery_usage_data.csv**: Data for the second day (00:00 - 23:59).
+- **day3_battery_usage_data.csv**: Data for the third day (00:00 - 23:59).
 
 ## Usage
 
